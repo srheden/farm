@@ -1,0 +1,29 @@
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="{{ .Site.BaseURL }}"><h1 class="title is-4">{{ .Site.Title }}</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          <a class="nav-item" href="/places/">Places</a>
+          <a class="nav-item" href="/recipes/">Recipes</a>
+          <a class="nav-item" href="/events/">Events</a>
+          <a class="nav-item" href="/pages/about">About</a>
+          {{ range .Site.Params.social }}
+          <a class="level-item" href="https://instagram.com/grocerystories">
+            <span class="icon">
+              <i class="fa_instagram"></i>
+            </span>
+          </a>
+          <a class="level-item" href="{{ .url }}">
+            <span class="icon">
+              <i class="fa {{ .fa_icon }}"></i>
+            </span>
+          </a>
+          {{ end }}
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>

@@ -1,0 +1,19 @@
+baseURL = "http://grocerystories.net/"
+# baseURL = "https://srheden.github.io/grocerystories/"
+languageCode = "en-gb"
+title = "Grocery Stories"
+googleanalytics = "UA-102271940-1"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Grocery Stories: Community and Food"
+  author = "Sarah Eden"
+  disqusShortname = "grocerystories-net"
+
+  [[params.social]]
+  url = "https://instagram.com/grocerystories"
+  fa_icon = "fa-instagram"
+  
