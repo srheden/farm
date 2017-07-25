@@ -12,8 +12,8 @@ googleanalytics = "UA-102271940-1"
   description = "Grocery Stories: Community and Food"
   author = "Sarah Eden"
   disqusShortname = "grocerystories-net"
+  header_image = "![header image](/images/header-image.jpg)"
 
   [[params.social]]
   url = "https://instagram.com/grocerystories"
   fa_icon = "fa-instagram"
-  
