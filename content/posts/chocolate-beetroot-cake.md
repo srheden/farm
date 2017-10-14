@@ -25,7 +25,7 @@ Ingredients:
 Method:
 
 1. Butter and line a 20cm (8in) spring form cake tin.
-2. Heat the oven to 170°C/338°F/gas mark 3.
+2. Heat the oven to 170C / gas mark 3 / 338F.
 3. Using a food processor, purée the beetroot until smooth. Leave in the processor.
 4. Simmer some water in a saucepan. Put a large heat-proof bowl over the saucepan. Place the butter and chocolate in the bowl. Only when the butter and chocolate have nearly completely melted should you stir them to combine. Add the chocolate and butter to the blended beetroot. Don't put the bowl in the sink! Save it to use for combining the final cake batter.
 5. Separate the eggs, putting the whites into clean large bowl with caster sugar and salt. Set this aside. To the slightly cooled chocolate, butter, and beetroot mixture, add the yolks and blend. Add the ground almonds and blend again. Decant into the large bowl you used for melting the chocolate and butter together.
