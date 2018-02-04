@@ -2,8 +2,7 @@
 date = "2018-02-05T08:00:00+01:00"
 title = "Dutch babies"
 tags = ["recipe"]
-categories = ["recpes"]
-draft = true
+categories = ["recipes"]
 +++
 
 January and February are hard months for me, and probably for some of you too. My father died last May. This fact has been making difficult experiences I'd normally find easy and making harder those which I'd have found hard at any point in my life.
