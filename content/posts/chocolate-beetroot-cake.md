@@ -1,6 +1,6 @@
 +++
 date = "2017-09-24T10:00:00+01:00"
-title = "Chocolate Beetroot Cake"
+title = "Chocolate beetroot cake"
 tags = ["recipe", "gluten-free", "dessert"]
 categories = ["recipes"]
 +++
@@ -13,19 +13,19 @@ Every time I decide to make the recipe, the blog post is increasingly more chall
 
 Ingredients:
 
-* 200g cooked and peeled beetroot
-* 200g unsalted butter
-* 200g dark chocolate (70% cocoa solids), broken into pieces
+* 200 grams cooked and peeled beetroot
+* 200 grams unsalted butter
+* 200 grams dark chocolate (70% cocoa solids), broken into pieces
 * 4 eggs
-* 200g caster sugar
+* 200 grams caster sugar
 * 1 teaspoon salt
-* 200g ground almonds
+* 200 grams ground almonds
 * Raspberries or crème fraîche to serve (optional)
 
 Method:
 
 1. Butter and line a 20cm (8in) spring form cake tin.
-2. Heat the oven to 170C / gas mark 3 / 338F.
+2. Heat the oven to 170C / 150C fan / gas mark 3 / 338F.
 3. Using a food processor, purée the beetroot until smooth. Leave in the processor.
 4. Simmer some water in a saucepan. Put a large heat-proof bowl over the saucepan. Place the butter and chocolate in the bowl. Only when the butter and chocolate have nearly completely melted should you stir them to combine. Add the chocolate and butter to the blended beetroot. Don't put the bowl in the sink! Save it to use for combining the final cake batter.
 5. Separate the eggs, putting the whites into clean large bowl with caster sugar and salt. Set this aside. To the slightly cooled chocolate, butter, and beetroot mixture, add the yolks and blend. Add the ground almonds and blend again. Decant into the large bowl you used for melting the chocolate and butter together.

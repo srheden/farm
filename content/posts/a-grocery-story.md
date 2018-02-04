@@ -1,6 +1,6 @@
 +++
 date = "2017-07-09T21:32:49+01:00"
-title = "A Grocery Story"
+title = "A grocery story"
 tags = ["grocery-store", "greengrocer", "portland"]
 categories = ["places"]
 +++
